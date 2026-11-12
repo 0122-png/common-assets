@@ -1,0 +1,163 @@
+{
+ "version": 2,
+ "updated": "2026-11-12",
+ "note": "環境音メモ 音源目録。file は暗号化済み音声（.enc）または環境音ベッド。",
+ "voice": {
+  "tsubuyaki": [
+   {
+    "id": "t01",
+    "file": "voice/t01.mp3.enc",
+    "title": "星が出ている",
+    "sec": 5.7
+   },
+   {
+    "id": "t02",
+    "file": "voice/t02.mp3.enc",
+    "title": "次は何をしようかな",
+    "sec": 3.7
+   },
+   {
+    "id": "t03",
+    "file": "voice/t03.mp3.enc",
+    "title": "今のは面白かったな",
+    "sec": 4.9
+   },
+   {
+    "id": "t04",
+    "file": "voice/t04.mp3.enc",
+    "title": "ハーブが仕上がった",
+    "sec": 6.3
+   },
+   {
+    "id": "t05",
+    "file": "voice/t05.mp3.enc",
+    "title": "お湯を沸かせていた",
+    "sec": 5.4
+   }
+  ],
+  "zatsugaku": [
+   {
+    "id": "z01",
+    "file": "voice/z01.mp3.enc",
+    "title": "アンティキティラ島の機械",
+    "sec": 193.3
+   },
+   {
+    "id": "z02",
+    "file": "voice/z02.mp3.enc",
+    "title": "セレンディピティ",
+    "sec": 108.6
+   },
+   {
+    "id": "z03",
+    "file": "voice/z03.mp3.enc",
+    "title": "バタフライ効果",
+    "sec": 120.4
+   },
+   {
+    "id": "z04",
+    "file": "voice/z04.mp3.enc",
+    "title": "ペトリコール",
+    "sec": 192.5
+   },
+   {
+    "id": "z05",
+    "file": "voice/z05.mp3.enc",
+    "title": "メメント・モリ",
+    "sec": 88.3
+   }
+  ]
+ },
+ "beds": [
+  {
+   "id": "mori",
+   "file": "bed/mori.mp3",
+   "title": "森"
+  },
+  {
+   "id": "rainStrong",
+   "file": "bed/rain_strong.mp3",
+   "title": "雨（強め）"
+  },
+  {
+   "id": "rainTerrace",
+   "file": "bed/rain_terrace.mp3",
+   "title": "雨（テラス）"
+  },
+  {
+   "id": "water",
+   "file": "bed/water.mp3",
+   "title": "水辺"
+  },
+  {
+   "id": "wind",
+   "file": "bed/kaze.mp3",
+   "title": "風"
+  }
+ ],
+ "soine": {
+  "breath": {
+   "file": "soine/breath2.mp3.enc",
+   "title": "寝息"
+  },
+  "heartbeat": {
+   "file": "bed/heartbeat.mp3",
+   "title": "心拍"
+  }
+ },
+ "events": [
+  {
+   "id": "steps",
+   "file": "event/steps.mp3",
+   "title": "木床の靴音"
+  },
+  {
+   "id": "cupboard",
+   "file": "event/cupboard.mp3",
+   "title": "食器棚の扉"
+  },
+  {
+   "id": "door",
+   "file": "event/door.mp3",
+   "title": "重い扉"
+  },
+  {
+   "id": "hotwater",
+   "file": "event/hotwater.mp3",
+   "title": "お湯を注ぐ"
+  },
+  {
+   "id": "paper",
+   "file": "event/paper.mp3",
+   "title": "紙を広げる"
+  },
+  {
+   "id": "keyPlace",
+   "file": "event/key_place.mp3",
+   "title": "鍵を置く"
+  },
+  {
+   "id": "keyHandle",
+   "file": "event/key_handle.mp3",
+   "title": "鍵を扱う"
+  }
+ ],
+ "negoto": [
+  {
+   "id": "n1",
+   "file": "soine/negoto1.mp3.enc"
+  },
+  {
+   "id": "n2",
+   "file": "soine/negoto2.mp3.enc"
+  },
+  {
+   "id": "n3",
+   "file": "soine/negoto3.mp3.enc"
+  },
+  {
+   "id": "n4",
+   "file": "soine/negoto4.mp3.enc"
+  }
+ ]
+}
