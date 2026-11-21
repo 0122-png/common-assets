@@ -1,0 +1,15 @@
+{
+  "pools": {
+    "spring": ["seisai-art/art-terrace.jpg", "seisai-art/art-living.jpg", "seisai-art/art-shop.jpg", "seisai-art/art-garden.jpg"],
+    "summer": ["seisai-art/art-lake.jpg", "seisai-art/art-terrace.jpg", "seisai-art/art-living.jpg", "seisai-art/art-town.jpg", "seisai-art/art-garden.jpg"],
+    "autumn": ["seisai-art/art-terrace.jpg", "seisai-art/art-living.jpg", "seisai-art/art-shop.jpg", "seisai-art/art-suit.jpg"],
+    "winter": ["seisai-art/art-terrace.jpg", "seisai-art/art-living.jpg", "seisai-art/art-suit.jpg", "seisai-art/art-ops.jpg"]
+  },
+  "pos": {
+    "seisai-art/art-suit.jpg": "50% 18%",
+    "seisai-art/art-ops.jpg": "50% 20%",
+    "seisai-art/art-town.jpg": "50% 15%",
+    "seisai-art/art-shop.jpg": "50% 12%",
+    "seisai-art/art-garden.jpg": "68% 30%"
+  }
+}
