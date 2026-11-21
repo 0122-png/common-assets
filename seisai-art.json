@@ -37,6 +37,12 @@
     "seisai-art/yaso-001.jpg",
     "seisai-art/yaso-002.jpg"
   ],
-  "video": [],
+  "video": [
+    {
+      "s": "seisai-video/sv001.mp4.enc",
+      "p": "seisai-video/sv001.jpg",
+      "e": 1
+    }
+  ],
   "audio": []
 }
